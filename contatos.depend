@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1644565080 source:c:\users\miche\documents\michel\programação\c\contatos\main.cpp
+	<iostream>
+	"menu.h"
+	"mecanica.h"
+	"armazena.h"
+	<locale.h>
+
+1644564475 c:\users\miche\documents\michel\programação\c\contatos\include\infospessoas.h
+	<string>
+
+1644557367 c:\users\miche\documents\michel\programação\c\contatos\include\menu.h
+	<iostream>
+
+1644564807 source:c:\users\miche\documents\michel\programação\c\contatos\src\infospessoas.cpp
+	"infosPessoas.h"
+
+1644565094 source:c:\users\miche\documents\michel\programação\c\contatos\src\menu.cpp
+	"menu.h"
+
+1644781593 source:c:\users\miche\documents\michel\programação\c\contatos\src\mecanica.cpp
+	"mecanica.h"
+
+1644781326 c:\users\miche\documents\michel\programação\c\contatos\include\mecanica.h
+	<iostream>
+	<fstream>
+	<string>
+	"infosPessoas.h"
+	"armazena.h"
+
+1644781519 source:c:\users\miche\documents\michel\programação\c\contatos\src\armazena.cpp
+	"armazena.h"
+
+1644781501 c:\users\miche\documents\michel\programação\c\contatos\include\armazena.h
+	<fstream>
+	<iostream>
+
